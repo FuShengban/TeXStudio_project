@@ -1,16 +1,14 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.23)  23 APR 2023 20:43
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.14)  23 APR 2023 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"山东半岛BW 可研报告.tex"
 (./山东半岛BW 可研报告.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-04-20>
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/base/article.cl
-s
+L3 programming layer <2023-03-30>
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count181
@@ -25,44 +23,42 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/graphics/graphi
-cx.sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.
+sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/graphics/keyval
-.sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/graphics/keyval.st
+y
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/graphics/graphi
-cs.sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/graphics/graphics.
+sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/graphics/trig.s
-ty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/graphics-cfg/gr
-aphics.cfg
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graph
+ics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 107.
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/graphics-def/xe
-tex.def
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/graphics-def/xetex
+.def
 File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
 )
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/ctex/ctex.sty
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.
-sty
-Package: expl3 2023-04-20 L3 programming layer (loader) 
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/ctex/ctex.sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-03-30 L3 programming layer (loader) 
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/l3backend/l3bac
-kend-xetex.def
-File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/l3backend/l3backen
+d-xetex.def
+File: l3backend-xetex.def 2023-03-30 L3 backend support: XeTeX
 \g__graphics_track_int=\count189
 \l__pdf_internal_box=\box51
 \g__pdf_backend_object_int=\count190
@@ -71,18 +67,15 @@ File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
 ))
 Package: ctex 2022/07/14 v2.5.10 Chinese adapter in LaTeX (CTEX)
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/ctex/ctexhook.s
-ty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
 )
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/ctex/ctexpatch.
-sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/ctex/ctexpatch.sty
 Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
-)
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/base/fix-cm.sty
+) (d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/base/ts1enc.def
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
@@ -92,20 +85,19 @@ LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 \g__ctex_section_depth_int=\count194
 \g__ctex_font_size_int=\count195
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/ctex/config/cte
-xopts.cfg
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexop
+ts.cfg
 File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
 )
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/ctex/engine/cte
-x-engine-xetex.def
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/ctex/engine/ctex-e
+ngine-xetex.def
 File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/xelatex/xecjk/xeCJK.s
-ty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/l3packages/xtem
-plate/xtemplate.sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/l3packages/xtempla
+te/xtemplate.sty
 Package: xtemplate 2023-02-02 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen144
 \l__xtemplate_tmp_int=\count196
@@ -173,16 +165,16 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \l__xeCJK_verb_case_int=\count274
 \l__xeCJK_verb_exspace_skip=\skip57
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/fontspec/fontsp
-ec.sty
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/l3packages/xpar
-se/xparse.sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.
+sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/
+xparse.sty
 Package: xparse 2023-02-02 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/fontspec/fontsp
-ec-xetex.sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-
+xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count275
@@ -200,14 +192,12 @@ X
 \l__fontspec_tmpb_dim=\dimen173
 \l__fontspec_tmpc_dim=\dimen174
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/base/fontenc.st
-y
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/fontspec/fontsp
-ec.cfg)))
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/xelatex/xecjk/xeCJK.c
-fg
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.
+cfg)))
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 ))
 \ccwd=\dimen175
@@ -215,31 +205,31 @@ File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 )
 \l__ctex_ziju_dim=\dimen176
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumb
-er.sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumber.
+sty
 Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
 \l__zhnum_scale_int=\count286
 \l__zhnum_tmp_int=\count287
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumb
-er-utf8.cfg
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumber-
+utf8.cfg
 File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
 ))
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/ctex/scheme/cte
-x-scheme-chinese.def
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/ctex/scheme/ctex-s
+cheme-chinese.def
 File: ctex-scheme-chinese.def 2022/07/14 v2.5.10 Chinese scheme for generic (CT
 EX)
 
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/ctex/config/cte
-x-name-utf8.cfg
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex-n
+ame-utf8.cfg
 File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
 ))
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/tools/indentfir
-st.sty
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/tools/indentfirst.
+sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/ctex/fontset/ct
-ex-fontset-windows.def
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/ctex/fontset/ctex-
+fontset-windows.def
 File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTE
 X)
 
@@ -273,8 +263,8 @@ Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 
 ))
-(d:/softwareInstalled/texLive/texlive/2023/texmf-dist/tex/latex/ctex/config/cte
-x.cfg
+(d:/Program Files/TeX Live/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex.c
+fg
 File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
 ) (./山东半岛BW 可研报告.aux)
 \openout1 = `"山东半岛BW 可研报告.aux"'.
@@ -375,10 +365,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [2] [3] (./山东半岛BW 可研报告.aux) ) 
 Here is how much of TeX's memory you used:
- 6732 strings out of 476660
- 203606 string characters out of 5795314
- 1860698 words of memory out of 5000000
- 26937 multiletter control sequences out of 15000+600000
+ 6732 strings out of 476675
+ 203375 string characters out of 5797183
+ 1860290 words of memory out of 5000000
+ 26922 multiletter control sequences out of 15000+600000
  517802 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,6n,97p,409b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
