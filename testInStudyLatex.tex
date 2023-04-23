@@ -1,0 +1,311 @@
+\documentclass[11pt,a4paper]{report}
+
+\usepackage{ctex}
+\usepackage{graphics}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+
+\title{ \textbf{华能山东半岛北 BW 场址海上风电项目} \\	可行性研究报告}
+\author{ 中国电建集团中南勘测设计研究院}
+\date{\today}
+
+
+\begin{document}
+	
+\maketitle
+
+\begin{abstract}
+	随着高层建筑高度的增加，风荷载带来的影响越发不容忽视。本文研究了超高层建筑涡激振动的相关问题。
+\end{abstract}
+
+\section{第一章}
+“你好，世界！”来自 \LaTeX{} 的问候。
+
+This   is   a   test.
+
+This\hspace{3em}is\hspace{3em}a\hspace{3em}test.	
+
+在\LaTeX{}中排版中文。
+汉字和English单词混排，通常不需要在中英文之间添加额外的空格。
+当然，为了代码的可读性，加上汉字和 English 之间的空格也无妨。 
+汉字换行时不会引入多余的空格。这还差不多，可以可以，比我想象的要好了
+
+Several spaces equal one.
+Front spaces are ignored.
+
+An empty line starts a new
+paragraph.\par
+A \verb|\par| command does
+the same.
+
+This is an % short comment
+% ---
+% Long and organized
+% comments
+% ---
+example: Comments do not bre%
+ak a word
+
+\# \$ \% \& \{ \} \_
+\^{} \~{} \textbackslash
+
+It's difficult to find \ldots
+
+It's dif{}f{}icult to f{}ind \ldots
+
+``Please press the `x' key.'' 
+
+中文引号测试：‘你好’ “你好”
+
+\newpage
+
+另外需要注意的是，使用 \verb|\\|
+断行命令 \\ 不会令内容另起一段，
+而是在段落中直接开始新的一行。
+
+使用 \verb|\newline| 断行的效果
+\newline
+与使用 \verb|\linebreak| 断行的效果
+\linebreak
+进行对比。
+
+I think this is: su\-per\-cal\-%
+i\-frag\-i\-lis\-tic\-ex\-pi\-%
+al\-i\-do\-cious.
+
+A reference to this subsection
+\label{sec:this} looks like:
+``see section~\ref{sec:this} on
+page~\pageref{sec:this}.''
+
+\footnote{需加载相关宏包，如 caption}
+
+“天地玄黄，宇宙洪荒。日月盈昃，辰宿列张。” \footnote{出自《千字文》。 }
+\newline
+
+\begin{tabular}{l}
+	\hline
+	“天地玄黄，宇宙洪荒。日月盈昃，辰宿列张。” \footnotemark \\
+	\hline
+	\newline
+\end{tabular}
+\footnotetext{表格里的名句出自《千字文》。 }
+
+\marginpar{\footnotesize 边注较窄，不要写过多文字，最好设置较小的字号。 }
+	
+\begin{enumerate}
+	\item An item.
+	\begin{enumerate}
+		\item A nested item.\label{itref}
+		\item[*] A starred item.
+	\end{enumerate}
+	\item Reference(\ref{itref}).
+	\newline		
+\end{enumerate}
+
+\begin{itemize}
+	\item An item.
+	\begin{itemize}
+		\item A nested item.
+		\item[+] A `plus' item.
+		\item Another item.
+	\end{itemize}
+	\item Go back to upper level.
+	\newline
+\end{itemize}
+
+\begin{description}
+	\item[Enumerate] Numbered list.
+	\item[Itemize] Non-numbered list.
+	\newline
+\end{description}
+
+\renewcommand{\labelitemi}{\ddag}
+\renewcommand{\labelitemii}{\dag}
+\begin{itemize}
+	\item First item
+	\begin{itemize}
+		\item Subitem
+		\item Subitem
+	\end{itemize}
+	\item Second item
+\end{itemize}
+
+\begin{center}
+	Centered text using a
+	\verb|center| environment.
+\end{center}
+\begin{flushleft}
+	Left-aligned text using a
+	\verb|flushleft| environment.
+\end{flushleft}
+\begin{flushright}
+	Right-aligned text using a
+	\verb|flushright| environment.
+	\newline
+\end{flushright}
+
+
+《木兰诗》：
+\begin{quotation}
+	万里赴戎机，关山度若飞。
+	朔气传金柝，寒光照铁衣。
+	将军百战死，壮士十年归。
+	归来见天子，天子坐明堂。
+	策勋十二转，赏赐百千强。……
+\end{quotation}
+
+《木兰诗》：
+\begin{quote}
+	万里赴戎机，关山度若飞。
+	朔气传金柝，寒光照铁衣。
+	将军百战死，壮士十年归。
+	归来见天子，天子坐明堂。
+	策勋十二转，赏赐百千强。……
+\end{quote}
+
+Rabindranath Tagore's short poem:
+\begin{verse}
+	Beauty is truth's smile
+	when she beholds her own face in
+	a perfect mirror. 
+	Beauty is truth's smile
+	when she beholds her own face in
+	a perfect mirror. 
+	Beauty is truth's smile
+	when she beholds her own face in
+	a perfect mirror.
+	Beauty is truth's smile
+	when she beholds her own face in
+	a perfect mirror.
+\end{verse}
+
+\begin{verbatim}
+	#include <iostream>
+	int main()
+	{
+		std::cout << "Hello, world!"
+		<< std::endl;
+		return 0;
+	}
+\end{verbatim}
+
+\begin{verbatim*}
+	for (int i=0; i<4; ++i)
+	printf("Number %d\n",i);
+\end{verbatim*}
+
+\verb|\LaTeX| \\
+\verb+(a || b)+ \verb*+(a || b)+
+
+\begin{tabular}{|c|}
+	center-\\ aligned \\
+\end{tabular},
+\begin{tabular}[t]{|c|}
+	top-\\ aligned \\
+\end{tabular},
+\begin{tabular}[b]{|c|}
+	bottom-\\ aligned\\
+\end{tabular} tabulars.
+
+\begin{tabular}{lcr|p{6em}}
+	\hline
+	left & center & right & par box with fixed width\\
+	L & C & R & P \\
+	\hline
+\end{tabular}
+
+\begin{tabular}{@{} r@{:}lr @{}}
+	\hline
+	1 & 1 & one \\
+	11 & 3 & eleven \\
+	\hline
+\end{tabular}
+
+\begin{tabular}{ r@{:}lr }
+	\hline
+	1 & 1 & one \\
+	11 & 3 & eleven \\
+	\hline
+\end{tabular}
+
+\begin{tabular}{>{\itshape}r<{*}l}
+	\hline
+	italic & normal \\
+	column & column \\
+	\hline
+\end{tabular}
+
+\begin{tabular}{>{aaa}l<{back word}c<{\hspace{1cm}}r}
+	\hline
+	left aligned & centered & right aligned \\
+	\hline
+	1 & 2 & a3 \\
+	1 & 2 & a3 \\
+	1 & 2 & a3 \\
+	1 & 2 & a3 \\
+	\hline
+\end{tabular}
+
+\begin{tabular}%
+	{>{\centering\arraybackslash}p{9em}}
+	\hline
+	Some center-aligned long text. \\
+	\hline
+\end{tabular}
+
+\newcommand\txt{a b c d e f g h i}
+\begin{tabular}{cp{2em}m{2em}b{2em}}
+	\hline
+	pos & \txt & \txt & \txt \\
+	\hline
+\end{tabular}
+
+\begin{tabular*}{14em}%
+	{@{\extracolsep{\fill}}|c|c|c|c|}
+	\hline
+	A & B & C & D \\ \hline
+	a & b & c & d \\ \hline
+\end{tabular*}
+
+\begin{tabularx}{14em}%
+	{|*{4}{>{\centering\arraybackslash}X|}}
+	\hline
+	A & B & C & D \\ \hline
+	a & b & c & d \\ \hline
+\end{tabularx}
+
+\begin{tabular}{|c|c|c|}
+	\hline
+	4 & 9 & 2 \\ \cline{2-3}
+	3 & 5 & 7 \\ \cline{1-1}
+	8 & 1 & 6 \\ \hline
+\end{tabular}
+
+\begin{tabular}{cccc}
+	\toprule
+	& \multicolumn{3}{c}{Numbers} \\ \cmidrule{2-4}
+	& 1 & 2 & 3 \\ 	\midrule
+	Alphabet & A & B & C \\
+	Roman & I & II & III \\
+	\bottomrule
+\end{tabular}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
